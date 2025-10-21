@@ -1,3 +1,4 @@
 {
-  "conventionalCommits.scopes": ["dev"]
+  "conventionalCommits.scopes": ["dev", "infra"],
+  "cSpell.words": ["depl", "gerardodev"]
 }
